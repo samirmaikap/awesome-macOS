@@ -121,6 +121,7 @@
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
+- [SpawnSweep](https://samirmaikap.github.io/spawnsweep/) - Finds and cleans up the dev servers, busy ports, simulators and git worktrees that coding sessions and AI agents leave running. [![Open-Source Software][OSS Icon]](https://github.com/samirmaikap/spawnsweep)
 - [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing SSH keys and SSH config entries. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Objective-C to Swift code converter and Xcode & Finder extensions.
 - [TablePlus](https://tableplus.com/) - A modern, native GUI for multiple databases.
